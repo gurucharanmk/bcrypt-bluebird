@@ -45,7 +45,7 @@ Please read [CODE_OF_CONDUCT.md](https://github.com/gurucharanmk/bcrypt-bluebird
 
 * **Gurucharan MK** - *Initial work* - [Gurucharan MK](https://github.com/gurucharanmk/)
 
-See also the list of [contributors](https://github.com/gurucharanmk/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/gurucharanmk/bcrypt-bluebird/blob/master/contribitors) who participated in this project.
 
 ## License
 
