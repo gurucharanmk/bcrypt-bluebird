@@ -29,7 +29,7 @@ A bluebird promise wrapper for the bcrypt library.
 
 ## Built With
 
-* [Bluevird](http://bluebirdjs.com) - Bluebird is a full featured promise library with unmatched performance
+* [Bluebird](http://bluebirdjs.com) - Bluebird is a full featured promise library with unmatched performance
 * [Bcrypt](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 
 
